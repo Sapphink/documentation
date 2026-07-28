@@ -9,7 +9,7 @@
 
 ## 1. Installation & Activation
 
-Dialogic 2 requires Godot 4.4 or higher. If you don't know what version you have installed, take a look at the bottom of your Godot Editor.
+Dialogic 2 requires Godot 4.5 or higher. If you don't know what version you have installed, take a look at the bottom of your Godot Editor.
 
 Let's install Dialogic 2:
 
