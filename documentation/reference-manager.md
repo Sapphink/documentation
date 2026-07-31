@@ -9,13 +9,13 @@
 
 ## 1. What kind of references are we talking about?
 
-Dialogic timelines are saved in text-syntax that often favors being readable over being specific: You do not have to specify the exact character resource every time you reference a character. 
+Dialogic timelines are saved in a text-format that often favors being readable over being specific: You do not have to specify the exact character resource every time you reference a character. 
 
-To do this, dialogic assigns each of its resources (*timelines and characters*) a `unique identifier` string. This string is initially based on the file name but can be whatever; the only important thing is: not two resources (of the same type) can have the same identifier. 
+To do this, dialogic assigns each of its resources (*timelines and characters*) a `unique identifier` string. This string is initially based on the file name but can be changed to be whatever; the only important thing is: no two resources (of the same type) can have the same identifier.
 
-There is some other name based references in dialogic, notably *portraits* and *variables*. 
+There are some other name based references in dialogic, notably *portraits* and *variables*. 
 
-Dialogic provides tools to edit unique identifiers and also easily fix any `broken references` if you choose to rename something after having already used it in a timeline. These tools live in the Reference Manager which can be accessed via the Link button in the toolbar.
+Dialogic provides tools to edit unique identifiers and also easily fix any `broken references` if you renamed something after having already used it in a timeline. These tools live in the Reference Manager which can be accessed via the Link button in the toolbar.
 
 ---
 
@@ -53,7 +53,7 @@ Lastly click `Add`. An entry will be added to the list. You can then continue li
 
 ## 3. Unique identifiers
 
-Thes second tab allows you to change the unique identifiers for your characters and timelines.  
+The second tab allows you to change the unique identifiers for your characters and timelines.  
 
 You can simply double click an identifier or use the Pen button on the left.
 
